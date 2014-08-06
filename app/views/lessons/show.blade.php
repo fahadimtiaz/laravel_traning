@@ -1,0 +1,1 @@
+E:\new\xampp\htdocs\traning\app/views/lessons/show.blade.php
